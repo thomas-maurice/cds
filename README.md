@@ -61,7 +61,7 @@ Hatchery starts workers on Openstack servers using Openstack Nova.
 
 ### SDK
 
-A Go SDK is available at <>. It provide helper functions for all API handlers, with embedded authentification mechanism.
+A Go SDK is available at github.com/ovh/cds/sdk. It provide helper functions for all API handlers, with embedded authentification mechanism.
 
 ### CLI
 
